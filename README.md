@@ -3,3 +3,7 @@ Advanced Game Development - CSCI 4675 at the University of New Orleans, Spring 2
 
 ## Team Members:
 Executive Producer: Prof. Stephen G. Ware
+
+
+Lead Developer and Developer : Pujan Pokhrel
+
