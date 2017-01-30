@@ -19,3 +19,15 @@ Developer/Sound: Ryan Heinrich
 Developer: Emmanuel Tourniaire
 
 QA Tester: Emmanuel Tourniaire
+
+Artist: Eliana Fernandez
+
+QA Tester: Eliana Fernandez
+
+Lead Artist: Brandon Toney
+
+Artist: Brandon Toney
+
+Artist: Alex Chevez
+
+Design: Alex Chevez
