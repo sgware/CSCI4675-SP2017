@@ -7,3 +7,6 @@ Executive Producer: Prof. Stephen G. Ware
 Lead Developer and Developer : Pujan Pokhrel
 Designer and Developer: Bikesh Pandey
 
+Developer: Emmanuel Tourniaire
+
+QA Tester: Emmanuel Tourniaire
