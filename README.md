@@ -3,6 +3,8 @@ Advanced Game Development - CSCI 4675 at the University of New Orleans, Spring 2
 
 ## Team Members:
 Executive Producer: Prof. Stephen G. Ware
+
+Designer and Developer:	John Hall
 Developer: Saurab Ghimire
 Artist: Saurab Ghimire
 
@@ -14,3 +16,4 @@ Developer/Sound: Ryan Heinrich
 Developer: Emmanuel Tourniaire
 
 QA Tester: Emmanuel Tourniaire
+
