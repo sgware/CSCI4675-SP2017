@@ -3,4 +3,4 @@ Advanced Game Development - CSCI 4675 at the University of New Orleans, Spring 2
 
 ## Team Members:
 Executive Producer: Prof. Stephen G. Ware
-Designer/Developer:	John Hall
+Designer and Developer:	John Hall
