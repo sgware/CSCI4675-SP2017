@@ -11,6 +11,8 @@ Designer and Developer:	John Hall
 Developer: Saurab Ghimire
 Artist: Saurab Ghimire
 
+Designer/Developer :Abhishek Sapkota
+
 
 Lead Developer and Developer : Pujan Pokhrel
 Designer and Developer: Bikesh Pandey
