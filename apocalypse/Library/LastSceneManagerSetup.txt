@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/first scene.unity
+- path: Assets/scenes/gasRoomRWH.unity
   isLoaded: 1
   isActive: 1
