@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class move1 : MonoBehaviour {
-	public float moveSpeed = 100f;
+	public float moveSpeed = 20f;
 	public float turnSpeed = 50f;
 
 	// Use this for initialization
